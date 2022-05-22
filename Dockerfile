@@ -1,0 +1,1 @@
+FROM dockerized-gitversion:test
